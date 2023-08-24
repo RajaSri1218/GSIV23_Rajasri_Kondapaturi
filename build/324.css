@@ -1,0 +1,6 @@
+.card-no-border-radius {
+    border: none;
+    border-radius: 0; /* Remove the border radius */
+  }
+
+  
